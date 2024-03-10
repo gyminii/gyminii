@@ -8,7 +8,7 @@
 A dev who thinks, researches, creates, and connects to practical realization by web
 - 🔭 Simple is the Best!
 - 🌱 Future-oriented theme enthusiast
-- ⚡ Fun fact: I can fit in 10 minutes of sleep in 2 minutes
+- ⚡ I can fit in 10 minutes of sleep in 2 minutes
 - 💬 Ask me about anything!
 
 
