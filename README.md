@@ -16,6 +16,8 @@ A dev who thinks, researches, creates, and connects to practical realization by 
 ### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=aws,apollo,redux,firebase,materialui&theme=light)]()
 
+### 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler7688@gmail.com)](tyler7688@gmail.com)
 
 
 
