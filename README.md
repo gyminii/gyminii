@@ -12,9 +12,9 @@ A dev who thinks, researches, creates, and connects to practical realization by 
 - 💬 Ask me about anything!
 
 ### 🔨 Stacks
-[![Stacks](https://skillicons.dev/icons?i=js,ts,react,mongodb,graphql&theme=light)]
+[![Stacks](https://skillicons.dev/icons?i=js,ts,react,mongodb,graphql&theme=light)]()
 ### 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=aws,apollo,redux,firebase,materialui&theme=light)]
+[![Tools](https://skillicons.dev/icons?i=aws,apollo,redux,firebase,materialui&theme=light)]()
 
 
 
