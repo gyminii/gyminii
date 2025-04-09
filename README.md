@@ -20,7 +20,7 @@ A dev who thinks, researches, creates, and connects to practical realization by 
 
 ### 🔧 Tools & Backend
 
-[![Tools](https://skillicons.dev/icons?i=convex,clerk,jwt,firebase,graphql,redux,aws&theme=light)]()
+[![Tools](https://skillicons.dev/icons?i=mongodb,firebase,graphql,redux,aws&theme=light)]()
 
 - **ConvexDB**, **Clerk Auth**, **JWT**, **GraphQL**, **Firebase**, **Redux**, **AWS**
 - UI built with **shadcn/ui** for elegant and scalable design systems
