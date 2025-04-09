@@ -4,10 +4,10 @@
 
 ### 😸 Full Stack Developer
 
-A dev who thinks, researches, creates, and connects to practical realization by web
-- 🔭 Simple is the Best!
-- 🌱 Future-oriented theme enthusiast
-- ⚡ I can fit in 10 minutes of sleep in 2 minutes
+A dev who thinks, researches, creates, and connects to practical realization by web  
+- 🔭 Simple is the Best!  
+- 🌱 Future-oriented theme enthusiast  
+- ⚡ I can fit in 10 minutes of sleep in 2 minutes  
 - 💬 Ask me about anything!
 
 ---
@@ -22,14 +22,15 @@ A dev who thinks, researches, creates, and connects to practical realization by 
 
 [![Tools](https://skillicons.dev/icons?i=mongodb,firebase,graphql,redux,aws&theme=light)]()
 
-- **ConvexDB**, **Clerk Auth**, **JWT**, **GraphQL**, **Firebase**, **Redux**, **AWS**
+- **ConvexDB**, **Clerk Auth**, **JWT**, **GraphQL**, **Firebase**, **Redux**, **AWS**  
 - UI built with **shadcn/ui** for elegant and scalable design systems
 
 ---
 
 ### 📬 Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler7688@gmail.com)](mailto:tyler7688@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler7688@gmail.com)](mailto:tyler7688@gmail.com)  
+🌐 [Portfolio Website – minii.dev](https://www.minii.dev/)
 
 ---
 
