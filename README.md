@@ -6,8 +6,7 @@
 
 A dev who thinks, researches, creates, and connects to practical realization by web  
 - 🔭 Simple is the Best!  
-- 🌱 Future-oriented theme enthusiast  
-- ⚡ I can fit in 10 minutes of sleep in 2 minutes  
+- 🌱 Future-oriented theme enthusiast
 - 💬 Ask me about anything!
 
 ---
