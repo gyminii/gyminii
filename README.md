@@ -1,38 +1,60 @@
-[![Tyler's GitHub Banner](./assets/banner.png)](https://www.minii.dev/)
+[![Tyler's GitHub Banner](./assets/top-banner.png)](https://www.minii.dev/)
 
-## Hi there 👋 I'm TYLER LEE 
+### Hi there 👋
 
-### 😸 Full Stack Developer
+#### 😸 Full Stack Developer
 
-A dev who thinks, researches, creates, and connects to practical realization by web  
-- 🔭 Simple is the Best!  
-- 🌱 Future-oriented theme enthusiast
-- 💬 Ask me about anything!
+I'm Tyler, a full-stack developer passionate about crafting exceptional digital experiences. I specialize in all aspects of web development—from architecting scalable backend systems to building pixel-perfect frontends that feel fast and fluid.
 
----
-
-### 🔨 Stacks
-
-[![Stacks](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,js&theme=light)]()
-
-- **TypeScript**, **JavaScript**, **Next.js (App Router)**, **React**, **Tailwind CSS**
-
-### 🔧 Tools & Backend
-
-[![Tools](https://skillicons.dev/icons?i=mongodb,firebase,graphql,redux,aws&theme=light)]()
-
-- **ConvexDB**, **Clerk Auth**, **JWT**, **GraphQL**, **Firebase**, **Redux**, **AWS**  
-- UI built with **shadcn/ui** for elegant and scalable design systems
+Whether it's fine-tuning performance or bringing design mockups to life with precision, I focus on creating apps that not only work great but look and feel just right.
 
 ---
 
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyminii)](https://github.com/anuraghazra/github-readme-stats)
+### 🔨 Skills
 
-### 📬 Contacts
+[![Frontend](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,js,redux,materialui,css&theme=light)]()
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler7688@gmail.com)](mailto:tyler7688@gmail.com)  
-🌐 [Portfolio Website – minii.dev](https://www.minii.dev/)
+[![Backend](https://skillicons.dev/icons?i=mongodb,firebase,graphql,supabase,aws&theme=light)]()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=gyminii&theme=light&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyminii&layout=compact&theme=default&title_color=2563eb&border_color=2563eb" height="180" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="left">
+  <a href="https://github.com/gyminii/Minix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Minix&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
+  </a>
+  <a href="https://github.com/gyminii/gyminii.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=gyminii.github.io&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
+  </a>
+  <a href="https://github.com/gyminii/Michat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Michat&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gyminii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/idkmini" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/minii_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+[![Tyler's GitHub Banner](./assets/bottom-banner.png)](https://www.minii.dev/)
