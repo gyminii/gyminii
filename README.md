@@ -26,6 +26,8 @@ A dev who thinks, researches, creates, and connects to practical realization by 
 
 ---
 
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyminii)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📬 Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler7688@gmail.com)](mailto:tyler7688@gmail.com)  
