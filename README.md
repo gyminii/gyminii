@@ -18,15 +18,6 @@ Whether it's fine-tuning performance or bringing design mockups to life with pre
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=gyminii&theme=light&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyminii&layout=compact&theme=default&title_color=2563eb&border_color=2563eb" height="180" />
-</p>
-
----
-
 ### 📌 Pinned Projects
 
 <p align="left">
@@ -39,6 +30,15 @@ Whether it's fine-tuning performance or bringing design mockups to life with pre
   <a href="https://github.com/gyminii/Michat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Michat&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
   </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=gyminii&theme=light&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyminii&layout=compact&theme=default&title_color=2563eb&border_color=2563eb" height="180" />
 </p>
 
 ---
