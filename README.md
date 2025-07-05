@@ -1,5 +1,7 @@
 [![Tyler's GitHub Banner](./assets/top-banner.png)](https://www.minii.dev/)
-
+<!---
+Theme Color: #2563eb
+-->
 ### Hi there 👋
 
 #### 😸 Full Stack Developer
