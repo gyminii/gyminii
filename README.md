@@ -26,9 +26,6 @@ Whether it's fine-tuning performance or bringing design mockups to life with pre
   <a href="https://github.com/gyminii/Minix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Minix&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
   </a>
-  <a href="https://github.com/gyminii/gyminii.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=gyminii.github.io&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
-  </a>
   <a href="https://github.com/gyminii/Michat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Michat&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
   </a>
