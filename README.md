@@ -32,6 +32,12 @@ Whether it's fine-tuning performance or bringing design mockups to life with pre
   <a href="https://github.com/gyminii/Michat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=Michat&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
   </a>
+    <a href="https://github.com/gyminii/kanban-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=kanban-frontend&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
+  </a>
+    <a href="https://github.com/gyminii/kanban-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gyminii&repo=kanban-backend&title_color=2563eb&icon_color=2563eb&border_color=2563eb" />
+  </a>
 </p>
 
 ---
