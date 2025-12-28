@@ -41,10 +41,7 @@ Whether it's fine-tuning performance or bringing design mockups to life with pre
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=gyminii&theme=light&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyminii&layout=compact&theme=default&title_color=2563eb&border_color=2563eb" height="180" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gyminii&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
