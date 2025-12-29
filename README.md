@@ -38,12 +38,6 @@ Check out my portfolio at [minii.dev](https://www.minii.dev/)
   <a href="https://www.linkedin.com/in/gyminii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/idkmini" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/minii_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 [![Tyler's GitHub Banner](./assets/bottom-banner.png)](https://www.minii.dev/)
