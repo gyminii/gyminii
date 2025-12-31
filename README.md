@@ -23,7 +23,7 @@ Docker, Git, Bun, Clerk Auth
 
 ### 📌 Recent projects
 
-- **[Airmini](https://github.com/gyminii/airmini)** - AI travel assistant with FastAPI, LangGraph, and vector search
+- **[Airmini](https://github.com/gyminii/airmini-frontend)** - AI travel assistant with FastAPI, LangGraph, and vector search
 - **[Kanban Board](https://github.com/gyminii/kanban-frontend)** - Task management with Next.js frontend and Python GraphQL backend
 - **[MiChat](https://github.com/gyminii/Michat)** - Real-time chat app
 - **[Minix](https://github.com/gyminii/Minix)** - File manager
