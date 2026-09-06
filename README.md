@@ -7,7 +7,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="middle" width="34%">
+    <td align="center" valign="middle" width="2000">
       <a href="https://www.minii.dev/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-globe-dark.svg">
@@ -15,7 +15,7 @@
         </picture>
       </a>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="middle" width="2000">
       <a href="mailto:tyler@minii.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-mail-dark.svg">
@@ -23,7 +23,7 @@
         </picture>
       </a>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="middle" width="2000">
       <a href="https://www.linkedin.com/in/gyminii/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg">
