@@ -1,7 +1,7 @@
 <a href="https://www.minii.dev/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
-  <img src="./assets/card-light.svg" alt="Tyler Lee, Full-Stack Developer & Systems Integrator" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg?v=2">
+  <img src="./assets/card-light.svg?v=2" alt="Tyler Lee, Full-Stack Developer & Systems Integrator" width="100%">
 </picture>
 </a>
 
